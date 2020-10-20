@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+}
+#login_page{
+   background-color: #ffffdc;
+   height: auto;
+   width: auto;
+}
+h3{
+  text-align: center;
+}
+.login{
+  margin-top: 180px;
+  margin-bottom: 225px;
+  margin-left: 800px;
+
+}
+.image{
+  position: absolute;
+  top: 80px;
+  left: 50px;
+}
+a{
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+a:link {
+  color: black;
+}
+.insert{
+  margin-top: 70px;
+}
+.error{
+  background-color: #ff726f;
+  width: 500px;
+  margin-bottom: 30px;
+}
+
+
+
